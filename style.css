@@ -4,7 +4,7 @@
 
 :root {
 
-  --bg-gradient-onyx: linear-gradient(   /* avatar box */
+--bg-gradient-onyx: linear-gradient(   /* avatar box */
   to bottom right, 
   hsl(240, 1%, 25%) 3%, 
   hsl(0, 0%, 19%) 97%
@@ -1605,7 +1605,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     border-radius: 5px;
   }
 
-  .info-content .name { margin-bottom: 15px; }
+  .info-content .name { margin-bottom: 5px; }
 
   .info-content .title { padding: 5px 18px; }
 
